@@ -14,12 +14,12 @@ Count of Countries: 8
 Total Genres: 8
 Movies vs. TV Shows: 51% (Movies) vs. 49% (TV Shows)
 
-###Insights and Observations
+### Insights and Observations
 Overall Content Split
 
 Netflix’s catalog is almost evenly split between Movies (51%) and TV Shows (49%). This near 50/50 ratio suggests Netflix invests in both formats to cater to diverse audience preferences.
 
-###Trends of Genre by Years of Release
+### Trends of Genre by Years of Release
 
 The line chart shows a significant increase in content releases over the last decade. After 2010, the number of titles added each year grew sharply, reflecting Netflix’s rapid expansion and content acquisition strategy.
 
@@ -28,7 +28,7 @@ The line chart shows a significant increase in content releases over the last de
 The top 8 genres include Action, Comedy, Documentary, Drama, Horror, Romance, Sci-Fi, and Thriller.
 Drama tends to have the highest count across both Movies and TV Shows, followed by Comedy and Action.
 
-###Rating by Type
+### Rating by Type
 
 Different ratings (e.g., TV-14, TV-MA, PG, PG-13, R, etc.) are distributed between Movies and TV Shows.
 TV-14 and TV-MA appear frequently for TV Shows, whereas PG-13 and R ratings are more common among Movies.
