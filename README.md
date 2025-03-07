@@ -3,7 +3,7 @@ This repository provides a comprehensive analysis of Netflix's movies and TV sho
 
 The dashboard provides insights into content types, genres, ratings, and trends over time, helping stakeholders understand Netflix’s content distribution and growth.
 
-##Dashboard Preview
+## Dashboard Preview
 
  ![Netflix Analysis Dashboard](https://github.com/user-attachments/assets/f096d1dd-64a1-499a-b97e-4d389f07817c)
 
